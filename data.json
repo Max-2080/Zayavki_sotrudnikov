@@ -1,0 +1,67 @@
+{
+  "employees": [
+    {
+      "id": "a398661b",
+      "full_name": "Макс",
+      "position": "Работник",
+      "department": "Отдел"
+    }
+  ],
+  "executors": [
+    {
+      "id": "c073c40a",
+      "full_name": "Иванов И.И.",
+      "specialization": "IT-специалист"
+    },
+    {
+      "id": "67801e07",
+      "full_name": "Петрова А.С.",
+      "specialization": "HR-менеджер"
+    },
+    {
+      "id": "c90de602",
+      "full_name": "Сидоров В.П.",
+      "specialization": "Инженер АХО"
+    },
+    {
+      "id": "f55cde61",
+      "full_name": "Козлова Е.М.",
+      "specialization": "Бухгалтер"
+    }
+  ],
+  "categories": [
+    {
+      "id": "8db55386",
+      "name": "IT",
+      "description": "Технические проблемы"
+    },
+    {
+      "id": "4041bc97",
+      "name": "HR",
+      "description": "Кадровые вопросы"
+    },
+    {
+      "id": "98125722",
+      "name": "АХО",
+      "description": "Административно-хозяйственный отдел"
+    },
+    {
+      "id": "76e6641b",
+      "name": "Бухгалтерия",
+      "description": "Финансовые вопросы"
+    }
+  ],
+  "tickets": [
+    {
+      "id": "41656572",
+      "employee_id": "a398661b",
+      "category_id": "8db55386",
+      "executor_id": null,
+      "title": "проблема",
+      "description": "йцукен",
+      "status": "Новая",
+      "created_at": "23.09.2026 12:23",
+      "updated_at": ""
+    }
+  ]
+}
